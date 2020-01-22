@@ -1,0 +1,4 @@
+install FontAwesome.otf 
+
+just click F:\bootstrap\font-awesome-cheatset\font-awesome-4.7.0\fonts\FontAwesome.otf to install the font
+

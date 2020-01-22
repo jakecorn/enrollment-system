@@ -1,0 +1,34 @@
+body {
+  /*padding-top: 70px;*/
+  padding-bottom: 30px;
+}
+
+.theme-dropdown .dropdown-menu {
+  position: static;
+  display: block;
+  margin-bottom: 20px;
+}
+
+.theme-showcase > p > .btn {
+  margin: 5px 0;
+}
+
+.theme-showcase .navbar .container {
+  width: auto;
+}
+
+/*Actions wrapper*/
+.actions-wrapper {
+	margin-bottom: 20px;
+}
+
+.form-signin{
+	max-width: 330px;
+	padding: 15px;
+	margin: 0 auto;
+}
+
+/*Table Actions*/
+.table th.actions {
+	width: 17.5%;
+}
